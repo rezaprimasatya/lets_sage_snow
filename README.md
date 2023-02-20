@@ -1,4 +1,4 @@
-- Sagemaker setup <br />
+<b>Sagemaker setup</b> <br />
 - Clone github repo: https://github.com/rezaprimasatya/lets_sage_snow <br />
 - create bucket on S3 <br />
 - create sagemaker studio <br />
